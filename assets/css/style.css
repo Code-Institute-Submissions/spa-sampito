@@ -4,10 +4,12 @@ html {
     width: 100%;
     background-color: #e8e8e8;
     position: absolute;
-    max-width: 1200px;
+    max-width: 100%;
     overflow-x: hidden;
 }
 
+
+/* Top part of the page*/
 .page-header {
     font-style: italic;
     background-color: lightgray;
@@ -35,6 +37,7 @@ html {
     background-color: #7575;
     text-align: justify;
     border-radius: 5%;
+    position: relative;
 }
 
 #offer {
@@ -44,6 +47,7 @@ html {
     border-radius: 5%;
 }
 
+/* image css*/
 .row {
     display: flex;
 }
@@ -93,14 +97,6 @@ icon:hover {
     color: white;
 }
 
-
-
-footer {
-    background-color: #bebebe;
-    padding: 1em;
-    text-align: center;
-}
-
 h1 {
     font-size: 5rem;
 }
@@ -123,11 +119,16 @@ h1 {
 
 
 
+/* top button at the end of the page*/
 .top {
     background-color: #7575;
     width: 1755px;
     justify-content: flex-end;
 }
 
-
-.social {margin-bottom: 300;}
+/* Footer css */
+footer {
+    background-color: #bebebe;
+    padding: 1em;
+    text-align: center;
+}
