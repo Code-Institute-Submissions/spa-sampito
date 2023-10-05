@@ -23,7 +23,7 @@ Page Features
 Navigation Bar :this is included across all three pages, and provides people with an easy reference to navigate between the 'Home', 'Contact' & 'Aboutus' pages.
 
 
-About us Page <https://sammy92dec.github.io/spa-sampito/aboutus.html>
+About us Page <https://sammy92dec.github.io/spa-sampito/aboutus.html> 
 Simple form asking people to join and share something about them self.Same calm features with the color.The input are a must to submit.Its codes dump that I have used.
 
 Social Links
@@ -45,7 +45,7 @@ HTML
 Errors were returned when passing through the official W3C validator.Had to remove extra spans and fix my <ol> since I can't you mulitple.
 another error came with the images that I had to remove "px" from width to only use digits.
 
-Credits
+Credits:
 This is my first page.
 To Martina last min mentor.
 Might not be an interesting page but last min fix as well.
