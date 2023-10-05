@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Spa Sampito
 
 Spa Sampito, derived from Sammy just a new brand name. In the world of modern stress, this spa is here to provide peace and help people to be grounded. It's a membership-based spa to make sure it won't be crowded.
@@ -43,14 +42,10 @@ The live link can be found HERE - <https://sammy92dec.github.io/spa-sampito/>
 
 Validator Test
 HTML
-Errors were returned when passing through the official W3C validator.Had to remove extra spans and fix my <ol> since I can't you mulitple.
+Errors were returned when passing through the official W3C validator.Had to remove extra spans and fix my <ol> since I can't you mulitple and use it with spans as well.
 another error came with the images that I had to remove "px" from width to only use digits.
 
 Creditss:
-This is my first page.
+This is my first website
 To Martina last min mentor.
-Might not be an interesting page but last min fix as well.
-=======
-
-
->>>>>>> ae8606f147d0d6979c834025dce0de3c7707bee4
+Might not be n interesting page but last min fix as well.
