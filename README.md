@@ -45,7 +45,7 @@ HTML
 Errors were returned when passing through the official W3C validator.Had to remove extra spans and fix my <ol> since I can't you mulitple.
 another error came with the images that I had to remove "px" from width to only use digits.
 
-Credits:
+Creditss:
 This is my first page.
 To Martina last min mentor.
 Might not be an interesting page but last min fix as well.
