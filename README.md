@@ -2,7 +2,7 @@ Spa Sampito
 
 Spa Sampito, derived from Sammy just a new brand name. In the world of modern stress, this spa is here to provide peace and help people to be grounded. It's a membership-based spa to make sure it won't be crowded.
 The website intends to show people or customers what we offer as services and their choices.
-![Screenshot of my front page]<media1/front-page.png>
+![Screenshot of my front page] <img src=media1/front-page.png/>
 
 Site purpose: To help people with regular mindfulness and self-care.
 Site goal: To reach out and show what we offer and if they can be a part.
