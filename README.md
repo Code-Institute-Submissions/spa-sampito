@@ -11,7 +11,7 @@ Communication:Design is soft no harsh colors just relecting calmness.It included
 Current User Goals:To show regular updates.
 New user Goals: to be a part.
 
-Design <img src=/workspaces/spa-sampito/media1/amidesign.png/> ![screenshot of website in different website]
+Design <img src=media1/amidesign.png/> ![screenshot of website in different devices]
 The colour palette was created with the thought to provide as much contrast as possible, without feeling overwhelming.The colors choosen were light-grey ,#7575 and random icon colors for social-media.
 
 Imagery
