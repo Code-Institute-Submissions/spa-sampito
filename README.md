@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Spa Sampito
 
 Spa Sampito, derived from Sammy just a new brand name. In the world of modern stress, this spa is here to provide peace and help people to be grounded. It's a membership-based spa to make sure it won't be crowded.
@@ -49,3 +50,7 @@ Creditss:
 This is my first page.
 To Martina last min mentor.
 Might not be an interesting page but last min fix as well.
+=======
+
+
+>>>>>>> ae8606f147d0d6979c834025dce0de3c7707bee4
