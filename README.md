@@ -11,7 +11,7 @@ Communication:Design is soft no harsh colors just relecting calmness.It included
 Current User Goals:To show regular updates.
 New user Goals: to be a part.
 
-Design <media1/ami design.png>
+Design <img src=media1/ami design.png/> ![screenshot of website in different website]
 The colour palette was created with the thought to provide as much contrast as possible, without feeling overwhelming.The colors choosen were light-grey ,#7575 and random icon colors for social-media.
 
 Imagery
@@ -51,7 +51,7 @@ I used the jigsaw W3C validator text.<https://jigsaw.w3.org/css-validator/>
 Got only one error, I added {position:absolute;} there was no purpose of it so I only removed it.
 
 Acessiblity Score
-</workspaces/spa-sampito/media1/Lighthousescore.png>
+<img src=workspaces/spa-sampito/media1/Lighthousescore.png/>
 
 Creditss:
 This is my first website
