@@ -19,7 +19,11 @@ html {
     margin: 2%;
     border-radius: 3%;
 }
-
+/* nav css edit*/
+.nav-head-color {
+    background-color: #7575;
+    min-width: auto;
+}
 
 .home-center {
    
@@ -30,17 +34,16 @@ html {
     text-align: center;
 }
 
+
 .explore-box {
     padding: 10px 5px 10px 5px;
-    width: 100%;
     margin: 2%;
     background-color: #7575;
-    text-align: justify;
     border-radius: 5%;
-    position: relative;
 }
 
 #offer {
+    padding: 10px 5px 10px 5px;
     margin-left: 2%;
     align-self: center;
     background-color: #7575;
@@ -109,9 +112,7 @@ h1 {
     text-align: center;
 }
 
-.nav-head-color {
-    background-color: #7575;
-}
+
 
 .justify {
     text-align: justify;
@@ -132,3 +133,8 @@ footer {
     padding: 1em;
     text-align: center;
 }
+
+/* aboutus css edit*/
+
+.about-body {background-color: #e8e8e8;}
+#about-text {text-align: center;}
